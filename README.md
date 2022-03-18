@@ -17,7 +17,7 @@ const Albert = {
 ```
 </div><br><br>
 
-
+[![albertcolomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertcolomer)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align="center"> 🧑‍🚀Short-term: </h2>
 
 ```javascript
