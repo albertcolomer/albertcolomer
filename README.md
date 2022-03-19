@@ -23,16 +23,16 @@ const Albert = {
 </a>
 
 
-<br><br>
+<br><br><br><br><br><br><br>
 
-<h2 align="left"> 🧑‍💻  Short-term: </h2><br>
+<h2 align="center"> 🧑‍💻  Short-term: </h2><br>
 
 ```javascript
                 Api Wikipedia                                  Bots 
                          🌐     🌍      🌎     🌏                 o
    ___   _                _      _       _       _                O
   [(_)] |=|              |=|    |=|     |=|     |=|             __ o     
-   '-`  |_|              |_|    |_|     |_|     |_|             )(
+   -┴-  |_|              |_|    |_|     |_|     |_|             )(
          /               /      /       /       /              (__) 
         |_______________|______|_______|_______|      
 ```
