@@ -16,19 +16,20 @@ const Albert = {
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=albertcolomer&hide=contribs&show_icons=true&theme=highcontrast" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=albertcolomer&hide=contribs,issues&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcolomer&theme=highcontrast" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcolomer&theme=highcontrast&layout=compact" />
 </a>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
-<h2 align="center"> 🧑‍💻  Short-term: </h2><br>
+<h2 align="center"> 🧑‍💻  Short-term / 🏗️ interested: </h2><br>
 
-```javascript
-                Api Wikipedia                                  Bots 
+```javascript                                                 
+                ♻️ Api                                        🦾 Bots
+                
                          🌐     🌍      🌎     🌏                 o
    ___   _                _      _       _       _                O
   [(_)] |=|              |=|    |=|     |=|     |=|             __ o     
