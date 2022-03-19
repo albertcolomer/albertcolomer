@@ -16,14 +16,14 @@ const Albert = {
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertcolomer&hide=contribs,issues&show_icons=true&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertcolomer&hide=contribs&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcolomer&theme=highcontrast&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcolomer&theme=highcontrast" />
 </a>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 <h2 align="center"> 🧑‍💻  Short-term / 🏗️ interested: </h2><br>
 
