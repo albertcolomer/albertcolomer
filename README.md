@@ -14,8 +14,12 @@ const Albert = {
     architecture: ["Serverless Architecture", "microservices", "Single page applications"],
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertcolomer&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![albertcolomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertcolomer&hide=contribs,prs,issues&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertcolomer&hide=contribs,prs,issues&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcolomer&layout=compact&theme=highcontrast" />
+</a>
 <br><br>
 <h2 align="center"> 🧑‍💻  Short-term: </h2>
 
