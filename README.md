@@ -1,4 +1,4 @@
-<div >
+
  
 <h2 align="center">  <img src="https://github.com/albertcolomer/albertcolomer/blob/main/Hello(1).gif"> Albert Colomer Mayola </h2>  
   
@@ -16,8 +16,12 @@ const Albert = {
     architecture: ["Serverless Architecture", "microservices", "Single page applications"],
 }
 ```
-[![albertcolomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertcolomer)](https://github.com/anuraghazra/github-readme-stats)
-</div><br><br>
+📈
+[![albertcolomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertcolomer&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+🧬
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertcolomer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+📡
+<br><br>
 
 
 
