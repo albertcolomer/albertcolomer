@@ -16,7 +16,7 @@ const Albert = {
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=albertcolomer&hide=contribs,prs,issues&show_icons=true&theme=highcontrast" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=albertcolomer&hide=contribs&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcolomer&theme=highcontrast" />
