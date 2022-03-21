@@ -5,10 +5,10 @@ const Albert = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express"],
+        backEnd: ["nodejs", "express", "java"],
         fronEnd: ["angular"],
         database: ["mongo","mySql"],
-        devOps: ["AWS", "Azure"],
+        devOps: ["Azure"],
         
     },
     architecture: ["Serverless Architecture", "microservices", "Single page applications"],
