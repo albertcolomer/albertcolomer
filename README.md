@@ -1,4 +1,4 @@
-<h2 align="center">  <img src="https://github.com/albertcolomer/albertcolomer/blob/main/Hello(1).gif"> Albert Colomer Mayola </h2>  
+<h2 align="center">  <img src="https://github.com/albertcolomer/albertcolomer/blob/main/Img/Hello(1).gif"> Albert Colomer Mayola </h2>  
   
 ```javascript
 const Albert = {
