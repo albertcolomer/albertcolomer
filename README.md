@@ -45,5 +45,5 @@ const Albert = {
 [<img align="right" alt="albertcolomer" width="40px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="right" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
-[website]: https://globalvision.azurewebsites.net/
+[website]: https://albertocolomer.azurewebsites.net/
 [linkedin]: https://www.linkedin.com/in/alberto-c-32200a42/
